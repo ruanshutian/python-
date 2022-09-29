@@ -1,6 +1,24 @@
 # 常见面试题
-  hello
- ---
-## hello
+  
 
-这是一个链接 [百度](https://www.runoob.com)
+## 1 python内建数据类型有哪些?
+
+整型--int
+
+布尔型--bool
+
+字符串--str
+
+列表--list
+
+元组--tuple
+
+字典--dict
+
+
+
+
+
+
+
+
